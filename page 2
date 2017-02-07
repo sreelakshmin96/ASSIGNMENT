@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>absolute link</title>
+</head>
+<body bgcolor="SKY BLUE">
+<a href="file:https://github.com/Jayaram-p/assignments/blob/master/HTML/page1.html">GO BACK TO FIRST HTML PAGE</a>
+
+</body>
+</html>
